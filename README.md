@@ -1,4 +1,7 @@
 # Graficas_Computacionales_Final
  
 Descripcion:
- -En este proyecto, estamos intentando recrear la isla "Hashima" de japon. Lo estamos desarrollando en Unity, y llevamos un avance significativo ya que ya hemos creado tanto como edificios, pequeñas calles y arboles. Tambien ya estamos experimentando y probando con la iluminacion y las sobras de las formas desarrolladas.
+
+Estamos trabajando en un proyecto que implica la recreación digital de la isla Hashima de Japón utilizando Unity. Hemos hecho un progreso considerable en el diseño y construcción de la infraestructura de la isla, incluyendo edificios meticulosamente detallados, calles estrechas y árboles que aportan un nivel de realismo a nuestra versión de Hashima.
+
+Además, estamos enfocándonos en aspectos técnicos como la iluminación y las sombras, para reflejar de manera precisa el juego de luces y sombras que ocurre en la vida real en la isla.
