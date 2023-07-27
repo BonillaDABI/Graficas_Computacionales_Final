@@ -1,3 +1,6 @@
+//Scrip Movement
+//Ivan Eloy Bonilla Gameros A00826077
+//Alan Lespron A01194016
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
