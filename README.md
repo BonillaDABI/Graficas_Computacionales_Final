@@ -11,6 +11,16 @@ Hemos añadido un personaje al que el usuario puede controlar. La cámara princi
 
 El script de movimiento es básico, lo que facilita la navegación. En resumen, nuestro proyecto es una experiencia interactiva de la isla Hashima, con un diseño de entorno detallado y un control sencillo.
 
+Referencias:
+
+Nuestro proyecto se benefició de varios activos preexistentes y bibliotecas, y nos gustaría agradecer a los siguientes recursos:
+
+LowpolyStreetPack - Utilizado para detallar las calles de la isla.
+Yughues Free Palm Trees - Los árboles añadidos a la isla provienen de esta biblioteca.
+ModularFirstPersonController - Este recurso nos proporcionó el modelo de personaje predeterminado en 3D.
+russian_buildings - La infraestructura edificada en la isla se diseñó utilizando esta colección de edificios.
+#NVJOB Water Shaders V2 - Usamos este recurso para representar el mar y otros cuerpos de agua en la isla.
+
 Escena final:
 ![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/7b333f98-075f-4305-8287-dc2d1de84a28)
 
@@ -25,3 +35,4 @@ Bancas y arboles:
 
 Personaje default(con animaciones y movimiento):
 ![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/454ab803-6d1b-470d-bc8d-c4bf378d8ac7)
+
