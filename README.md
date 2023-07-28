@@ -3,9 +3,25 @@
 Ivan Eloy Bonilla Gameros A00826077
 Alan Lespron A01194016
 
-Descripcion:
+Descripción Final:
 
-Estamos trabajando en un proyecto que implica la recreación digital de la isla Hashima de Japón utilizando Unity. Hemos hecho un progreso considerable en el diseño y construcción de la infraestructura de la isla, incluyendo edificios meticulosamente detallados, calles estrechas y árboles que aportan un nivel de realismo a nuestra versión de Hashima.
+Este proyecto en Unity representa la isla Hashima, Japón. Hemos replicado la infraestructura de la isla, con edificios, calles y árboles. Trabajamos en aspectos técnicos como la iluminación y las sombras, para simular la realidad de la isla.
 
-Además, estamos enfocándonos en aspectos técnicos como la iluminación y las sombras, para reflejar de manera precisa el juego de luces y sombras que ocurre en la vida real en la isla.
+Hemos añadido un personaje al que el usuario puede controlar. La cámara principal está unida a este personaje y ofrece una vista en tercera persona. Cuando la escena comienza, puedes moverte por la isla con este personaje.
+
+El script de movimiento es básico, lo que facilita la navegación. En resumen, nuestro proyecto es una experiencia interactiva de la isla Hashima, con un diseño de entorno detallado y un control sencillo.
+
+Escena final:
 ![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/7b333f98-075f-4305-8287-dc2d1de84a28)
+
+Edificios:
+![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/bcf29c39-12a1-414f-b047-450b2fe1263c)
+
+Calle:
+![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/86c25a39-5837-4c6e-a82e-9ee13e71a236)
+
+Bancas y arboles:
+![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/e6315a4f-3392-48ba-99e7-da64f3616aa0)
+
+Personaje default(con animaciones y movimiento):
+![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/454ab803-6d1b-470d-bc8d-c4bf378d8ac7)
