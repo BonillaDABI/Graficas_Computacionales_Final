@@ -1,25 +1,25 @@
-# Graficas_Computacionales_Final
- 
-Ivan Eloy Bonilla Gameros A00826077
-Alan Lespron A01194016
+# Proyecto Isla Hashima en Unity
 
-Descripción Final:
+## Descripción
+Este proyecto en Unity es una representación de la isla Hashima, Japón. Hemos replicado la infraestructura de la isla, incluyendo edificios, calles y árboles. Además, trabajamos en aspectos técnicos como la iluminación y las sombras, para simular la realidad de la isla.
 
-Este proyecto en Unity representa la isla Hashima, Japón. Hemos replicado la infraestructura de la isla, con edificios, calles y árboles. Trabajamos en aspectos técnicos como la iluminación y las sombras, para simular la realidad de la isla.
+Añadimos un personaje que el usuario puede controlar. La cámara principal está unida a este personaje, proporcionando una vista en tercera persona. Cuando la escena comienza, puedes moverte por la isla con este personaje.
 
-Hemos añadido un personaje al que el usuario puede controlar. La cámara principal está unida a este personaje y ofrece una vista en tercera persona. Cuando la escena comienza, puedes moverte por la isla con este personaje.
+El script de movimiento es básico, facilitando la navegación. En resumen, nuestro proyecto es una experiencia interactiva de la isla Hashima, con un diseño de entorno detallado y un control sencillo.
 
-El script de movimiento es básico, lo que facilita la navegación. En resumen, nuestro proyecto es una experiencia interactiva de la isla Hashima, con un diseño de entorno detallado y un control sencillo.
+## Referencias
+Nuestro proyecto se benefició de varios activos preexistentes y bibliotecas. Queremos agradecer a los siguientes recursos:
 
-Referencias:
+- **LowpolyStreetPack**: Utilizado para detallar las calles de la isla.
+- **Yughues Free Palm Trees**: Los árboles añadidos a la isla provienen de esta biblioteca.
+- **ModularFirstPersonController**: Este recurso nos proporcionó el modelo de personaje predeterminado en 3D.
+- **russian_buildings**: La infraestructura edificada en la isla se diseñó utilizando esta colección de edificios.
+- **#NVJOB Water Shaders V2**: Usamos este recurso para representar el mar y otros cuerpos de agua en la isla.
 
-Nuestro proyecto se benefició de varios activos preexistentes y bibliotecas, y nos gustaría agradecer a los siguientes recursos:
+## Autores
+- Ivan Eloy Bonilla Gameros A00826077
+- Alan Lespron A01194016
 
-LowpolyStreetPack - Utilizado para detallar las calles de la isla.
-Yughues Free Palm Trees - Los árboles añadidos a la isla provienen de esta biblioteca.
-ModularFirstPersonController - Este recurso nos proporcionó el modelo de personaje predeterminado en 3D.
-russian_buildings - La infraestructura edificada en la isla se diseñó utilizando esta colección de edificios.
-#NVJOB Water Shaders V2 - Usamos este recurso para representar el mar y otros cuerpos de agua en la isla.
 
 Escena final:
 ![image](https://github.com/BonillaDABI/Graficas_Computacionales_Final/assets/115091301/7b333f98-075f-4305-8287-dc2d1de84a28)
